@@ -1,89 +1,119 @@
-# 👋 Hi, I'm Aasha Sharma
+<h1 align="center">Hi 👋, I'm Aasha Sharma</h1>
+<h3 align="center">B.Tech CSE (Generative AI) | AI & ML Enthusiast | Open Source Contributor</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&pause=1000&color=00C8FF&center=true&vCenter=true&width=800&lines=Aspiring+AI+Engineer;Generative+AI+Explorer;Open+Source+Contributor;Google+Cloud+Learner;Passionate+Chess+Player+♟️;Always+Learning+Something+New!" alt="Typing SVG" />
-</p>
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=AashaSharma&label=Profile+Views&color=0e75b6&style=flat" />
-<img src="https://img.shields.io/github/followers/AashaSharma?label=Followers&style=social" />
-<img src="https://img.shields.io/github/stars/AashaSharma?affiliations=OWNER&style=social" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=650&lines=Artificial+Intelligence+Enthusiast;Machine+Learning+Explorer;Generative+AI+Developer;Open+Source+Contributor;Always+Learning+Something+New!" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-🎓 B.Tech Computer Science Engineering (Generative AI)
+🎓 B.Tech Computer Science Engineering (Specialization: Generative AI)
 
-🤖 Passionate about Artificial Intelligence, Machine Learning and Generative AI
+🤖 Passionate about Artificial Intelligence, Machine Learning, Deep Learning, and Generative AI
 
-🌩️ Exploring Google Cloud, AI Agents, LLMs and RAG
+☁️ Exploring Google Cloud Platform (GCP), AI Agents, LLMs, RAG, and MLOps
 
-💻 Open Source Contributor
+💻 Building AI-powered applications and contributing to Open Source
 
-♟️ Chess Player who enjoys strategy and problem solving
+♟️ Chess enthusiast who enjoys solving complex problems and thinking strategically
 
-🌱 Currently Learning
-
-* Deep Learning
-* Agentic AI
-* Cloud Computing
-* System Design
-
-🎯 Goal
-
-To become an AI Engineer building impactful AI products.
+🌱 Currently learning:
+- Deep Learning
+- Agentic AI
+- Retrieval-Augmented Generation (RAG)
+- Prompt Engineering
+- AI Agent Development
 
 ---
 
-## 🛠️ Tech Stack
+## 🌐 Connect With Me
 
-### Programming Languages
+<p align="left">
+<a href="https://www.linkedin.com/in/aasha-sharma-435" target="blank">
+<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+</a>
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,c,cpp,java" />
-</p>
-
-### Web Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,flask" />
-</p>
-
-### AI / ML
-
-<p>
-<img src="https://skillicons.dev/icons?i=tensorflow" />
-</p>
-
-### Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=sqlite,mysql" />
-</p>
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,gcp,linux" />
+<a href="https://github.com/AashaSharma" target="blank">
+<img src="https://skillicons.dev/icons?i=github" height="45"/>
+</a>
 </p>
 
 ---
 
-## 📊 GitHub Statistics
+## 💻 Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,html,css" />
+</p>
+
+---
+
+## 🚀 AI / ML
+
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+<img src="https://img.shields.io/badge/Generative_AI-4285F4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LLMs-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-0A66C2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Prompt_Engineering-purple?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Agentic_AI-success?style=for-the-badge"/>
+</p>
+
+---
+
+## 🌐 Web Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,flask,bootstrap" />
+</p>
+
+---
+
+## 🗄️ Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,sqlite" />
+</p>
+
+---
+
+## 🛠️ Tools & Platforms
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,gcp,linux" />
+</p>
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AashaSharma&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=AashaSharma&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AashaSharma&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AashaSharma&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
+---
+
+## 🔥 GitHub Streak
+
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AashaSharma&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=AashaSharma&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AashaSharma&theme=tokyo-night&hide_border=true"/>
 
 </p>
 
@@ -93,7 +123,7 @@ To become an AI Engineer building impactful AI products.
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=AashaSharma&theme=tokyonight&no-frame=true&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=AashaSharma&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10"/>
 
 </p>
 
@@ -101,97 +131,26 @@ To become an AI Engineer building impactful AI products.
 
 ## 🚀 Featured Projects
 
-### 🤖 Deadline Guardian AI
+⭐ **Deadline Guardian AI**
+> AI-powered productivity assistant using Generative AI to prioritize tasks, predict deadline risks, and create smart daily schedules.
 
-AI-powered productivity assistant that
+⭐ **AI Business Agent**
+> Intelligent business assistant that automates business workflows using AI Agents.
 
-* Prioritizes tasks
-* Predicts deadline risks
-* Breaks large tasks into smaller ones
-* Generates personalized schedules
-
----
-
-### 📚 FocusFlow
-
-Smart AI study planner for students.
-
----
-
-### ☁️ Google Cloud Projects
-
-Hands-on projects built while learning Google Cloud and Generative AI.
-
----
-
-## 🏅 Achievements
-
-🏅 Google Cloud Gen AI Academy
-
-🏅 Google Cloud Skills Boost
-
-🏅 Scholar @ SheFi
-
-🏅 Open Source Connect Global '26
-
-🏅 GirlScript Summer of Code '25
-
-🏅 Microsoft Learn Certifications
-
-🏅 Postman Student Expert
-
-🏅 HTML Fundamentals Quiz Winner
-
----
-
-## 📚 Currently Learning
-
-* Artificial Intelligence
-* Machine Learning
-* Deep Learning
-* LLMs
-* RAG
-* Agentic AI
-* Google Cloud
-* Data Structures & Algorithms
-
----
-
-## 🌐 Connect With Me
-
-<p align="left">
-
-<a href="https://www.linkedin.com/in/aasha-sharma-435b79325/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="https://github.com/AashaSharma" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://www.chess.com/member/AashaSharma" target="_blank">
-<img src="https://img.shields.io/badge/Chess.com-81B64C?style=for-the-badge&logo=chessdotcom&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AashaSharma&theme=tokyo-night&hide_border=true"/>
+⭐ **Open Source Contributions**
+> Contributing to GitHub repositories and continuously improving developer skills.
 
 ---
 
 ## 💡 Quote
 
-> **Think. Calculate. Play. Repeat. ♟️**
+> *"The future belongs to those who build it with AI."*
 
 ---
 
-<h3 align="center">⭐ Thanks for visiting my profile! ⭐</h3>
-
 <p align="center">
-If you like my work, consider giving a ⭐ to my repositories.
+
+<img src="https://komarev.com/ghpvc/?username=AashaSharma&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+
 </p>
   
