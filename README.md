@@ -303,7 +303,7 @@ Actively contributing to open-source communities while learning collaborative so
 - 💜 GirlScript Summer of Code (GSSoC)
 - 🌍 Open Source Connect Global (OSCG)
 - 💻 GitHub Open Source Projects
-- 🤝 Community Collaboration
+- 🤝 Community Collaborations
 - 📖 Documentation & Bug Fixes
 
 ---
