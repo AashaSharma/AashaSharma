@@ -1,6 +1,6 @@
 <!-- ========================= HEADER ========================= -->
 
-<h1 align="center">Hi 👋, I'm Aasha Sharma</h1>
+<h1 align="center">Hii 👋, I'm Aasha Sharma</h1>
 
 <h3 align="center">
 B.Tech CSE (Generative AI) Student • AI Enthusiast • Open Source Contributor • Cloud Learner • Chess Player ♟️
