@@ -48,19 +48,19 @@ B.Tech CSE AI Student • AI Enthusiast • Open Source Contributor • Cloud Le
 Name: Aasha Sharma
 
 Education:
-  B.Tech Computer Science Engineering (Generative AI)
+  B.Tech Computer Science Engineering AI
 
 Interests:
   - Artificial Intelligence
   - Generative AI
   - Machine Learning
-  - Open Source
+  - Data Analysis
   - Cloud Computing
 
 Currently Learning:
   - Agentic AI
   - LLMs
-  - RAG
+  - Programming
   - Deep Learning
   - Google Cloud
 
