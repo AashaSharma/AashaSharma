@@ -38,6 +38,10 @@ B.Tech CSE AI Student • AI Enthusiast • Open Source Contributor • Cloud Le
 <img src="https://img.shields.io/badge/Lichess-000000?style=for-the-badge&logo=lichess&logoColor=white"/>
 </a>
 
+<a href="https://worldchess.com/profile/1318876">
+<img src="https://img.shields.io/badge/worldchess-000000?style=for-the-badge&logo=worldchess&logoColor=white"/>
+</a>
+
 </p>
 
 ---
