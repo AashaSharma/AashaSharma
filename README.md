@@ -394,13 +394,17 @@ Chess has taught me strategic thinking, patience, and decision-making—skills t
 
 🔗 https://lichess.org/@/aasha05
 
+### ♞ WORLDCHESS
+
+🔗 https://worldchess.com/profile/1318876
+
 ---
 
 ## ♟️ Favorite Openings
 
-- London System
+- Polish Opening
 - Italian Game
-- Queen's Gambit
+- Owen's Defence
 
 ---
 
